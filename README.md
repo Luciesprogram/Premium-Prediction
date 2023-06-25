@@ -9,6 +9,7 @@ This project is created with below technologies/tools/resources:
 
     Flask Jupyter Notebook Visual Studio Code NumPy Pandas scikit-learn GitHub Actions
 
+
 #### Python: 3.7
 #### Machine Learning
 #### Jupyter Notebook
