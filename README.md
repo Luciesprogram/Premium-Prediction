@@ -6,11 +6,15 @@ rather than the ineffective parts.
 ## Table of contents
 ### Technologies
 This project is created with below technologies/tools/resources:
+#### Jupyter Notebook 
+#### Visual Studio Code 
+#### NumPy Pandas 
+#### scikit-learn 
+#### GitHub
+#### Pandas 
+#### MatplotLib
 
-    Flask Jupyter Notebook Visual Studio Code NumPy Pandas scikit-learn GitHub Actions
 
-
-#### Python: 3.7
 #### Machine Learning
 #### Jupyter Notebook
 #### Git
