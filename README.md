@@ -13,7 +13,7 @@ This project is created with below technologies/tools/resources:
 #### Machine Learning
 #### Jupyter Notebook
 #### Git
-#### Software and account Requirement :-
+### Software and account Requirement :-
 #### Github Account
 #### VS Code IDE
 #### GIT CLI
