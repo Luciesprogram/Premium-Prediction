@@ -6,7 +6,18 @@ rather than the ineffective parts.
 ## Table of contents
 ### Technologies
 This project is created with below technologies/tools/resources:
+<img src="https://github.com/Luciesprogram/Premium-Prediction/assets/128889858/13907c2b-b5ac-48e8-b201-7e2c9144927d" width="50" height="50">
+<img src="https://github.com/Luciesprogram/Premium-Prediction/assets/128889858/bdd03d92-19a3-4757-9195-df173ccf8ff4" width="50" height="50">
+<img src="https://github.com/Luciesprogram/Premium-Prediction/assets/128889858/ebc92d86-05ee-4965-be4c-bc82d1cc8863" width="50" height="50">
+<img src="https://github.com/Luciesprogram/Premium-Prediction/assets/128889858/8ad321da-df5d-4f36-9f13-ed6bc03c6d98" width="50" height="50">
+<img src="https://github.com/Luciesprogram/Premium-Prediction/assets/128889858/19cc3f9b-df31-4655-8236-90c20b281972" width="50" height="50">
+<img src="https://github.com/Luciesprogram/Premium-Prediction/assets/128889858/e8aa3e97-c07b-4b36-a177-ffa059d2b552" width="50" height="50">
+<img src="https://github.com/Luciesprogram/Premium-Prediction/assets/128889858/1fafeefa-801d-40a5-8f0a-e5df569cf0be" width="50" height="50">
+<img src="https://github.com/Luciesprogram/Premium-Prediction/assets/128889858/5175abc7-2eb9-4493-8b78-25dd807baa09" width="50" height="50">
+<img src="https://github.com/Luciesprogram/Premium-Prediction/assets/128889858/3e231665-b46a-49cb-831d-4571d8f6380c" width="50" height="50">
 #### Jupyter Notebook 
+
+
 #### Visual Studio Code 
 #### NumPy Pandas 
 #### scikit-learn 
