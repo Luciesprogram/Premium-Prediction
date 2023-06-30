@@ -1,2 +1,2 @@
 streamlit
-pycaret==3.0.0rc9
+pycaret==3.0.3
