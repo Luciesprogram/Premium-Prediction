@@ -3,7 +3,7 @@ import streamlit as st
 import pandas as pd
 import numpy as n
 
-model = load_model('Premimum-Prediction_model')
+model = load_model('Premium-Prediction-Web-app/blob/main/Premimum-Prediction_model.pkl')
 
 def predict(model, input_df):
     predictions_df = predict_model(estimator=model, data=input_df)
